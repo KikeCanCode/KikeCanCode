@@ -27,7 +27,7 @@ Learning is a continuous process, and I'm always on the lookout for new resource
 Feel free to suggest any other resources that you find valuable!
 
 ## Get in Touch 📩
-I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via [Slack]( https://app.slack.com/client/T05SLRYUCD7/D05SALDQ3RA) or connect with me on [linkedIn](https://www.linkedin.com/pub/dir?firstName=Kike&lastName=Dare&trk=people-guest_people-search-bar_search-submit)
+I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via [Slack]( https://app.slack.com/client/T05SLRYUCD7/D05SALDQ3RA) or connect with me on [LinkedIn](https://www.linkedin.com/pub/dir?firstName=Kike&lastName=Dare&trk=people-guest_people-search-bar_search-submit)
 
 ## Fun fact 
 Travelled to 15 countries around the world.
