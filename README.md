@@ -14,7 +14,7 @@ Here are some of the programming languages I have learnt or currently working on
 2.	Java 
 3.	Phyton
 
-Feel free to explore these projects and provide any feedback or suggestions!
+Feel free to provide any suggestions!
 
 ## Code Snippets 📋
 In this section, I'll be sharing useful code snippets, algorithms, or solutions to coding challenges that I encounter during my learning journey. These snippets will showcase my understanding and implementation skills across various programming languages and concepts.
