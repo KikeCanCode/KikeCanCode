@@ -21,7 +21,8 @@ I'm a passionate backend and full-stack developer with experience in Java, JavaS
   
 ## Get in Touch 📩
 I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via:
-LinkedIn: [Connect](www.linkedin.com/in/kike-becky-d-a17292279)
+
+[LinkedIn](www.linkedin.com/in/kike-becky-d-a17292279)
 
 ## Fun fact 
 Travelled to 15 countries around the world.
