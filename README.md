@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-### Welcome to Kike's GitHub Profile! 🚀
-
-## Introduction ⭐
-Welcome to my GitHub profile! I'm currently in the process of transitioning into a tech role and enrolled in a coding bootcamp to accelerate my learning journey. Here you'll find a collection of projects, code snippets, and resources that I'm working on during this exciting transition phase.
+### 🚀 Junior Software Developer | Backend & Full-Stack Development
 
 ## About Me 💖
-My name is Kike. I'm passionate about technology and its potential to solve real-world problems. My background may not be traditional in tech, but my enthusiasm and dedication to learning are unwavering. I believe in continuous growth and strive to expand my skills every day.
+I'm a passionate backend and full-stack developer with experience in Java, JavaScript, Spring Boot, Node.js, and MySQL. I enjoy building scalable and efficient applications, focusing on clean code, RESTful API development, and database management.
 
 ## Currently learning 📖
 Here are some of the programming languages I have learnt or currently working on or have completed during my bootcamp:
@@ -16,18 +13,27 @@ Here are some of the programming languages I have learnt or currently working on
 
 Feel free to provide any suggestions!
 
-## Code Snippets 📋
-In this section, I'll be sharing useful code snippets, algorithms, or solutions to coding challenges that I encounter during my learning journey. These snippets will showcase my understanding and implementation skills across various programming languages and concepts.
+## 🔧 Technologies & Tools:
+- Languages: Java, JavaScript
+- Backend: Spring Boot, Node.js
+- Database: MySQL, Drizzle ORM, Hibernate
+- Version Control: Git, GitHub
+- Testing: JUnit, Postman
+- Frontend: HTML, CSS
 
-## Learning Resources 📚
-Learning is a continuous process, and I'm always on the lookout for new resources to enhance my skills. Here are some of the resources I've found helpful:
--	Codecademy
--	GitHub Learning Lab
+##💡 Projects:
+- Job Platform – A job listing and application platform built during a mentorship with Monzo Bank.
+- Goal Setting App – A full-stack application for users to set and track personal goals.
+- Gratitude Journaling API – A RESTful API for managing gratitude journal entries.
+- Bank Transaction Management System – A Java-based system for handling deposits, withdrawals, and transaction history.
   
 Feel free to suggest any other resources that you find valuable!
 
-## Get in Touch 📩
-I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via [Slack]( https://app.slack.com/client/T05SLRYUCD7/D05SALDQ3RA) or connect with me on [LinkedIn](https://www.linkedin.com/pub/dir?firstName=Kike&lastName=Dare&trk=people-guest_people-search-bar_search-submit)
+## 📩 Connect with me:
+
+I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via:
+
+[Slack]( https://app.slack.com/client/T05SLRYUCD7/D05SALDQ3RA) or connect with me on [LinkedIn](www.linkedin.com/in/kike-becky-d-a17292279)
 
 ## Fun fact 
 Travelled to 15 countries around the world.
