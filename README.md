@@ -20,7 +20,8 @@ I'm a passionate backend and full-stack developer with experience in Java, JavaS
 - Bank Transaction Management System – A Java-based system for handling deposits, withdrawals, and transaction history.
   
 ## Get in Touch 📩
-I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via [Slack]( https://app.slack.com/client/T05SLRYUCD7/D05SALDQ3RA) or connect with me on [LinkedIn](www.linkedin.com/in/kike-becky-d-a17292279)
+I'm always open to collaborations, learning opportunities, or just a friendly chat! Feel free to reach out to me via:
+LinkedIn: [Connect](www.linkedin.com/in/kike-becky-d-a17292279)
 
 ## Fun fact 
 Travelled to 15 countries around the world.
