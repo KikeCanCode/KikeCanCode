@@ -21,14 +21,13 @@ I'm a passionate backend and full-stack developer with experience in Java, JavaS
   
 ## Get in Touch 📩
 I'm always open to new opportunities, collaborations, freelance projects, and connecting with like-minded professionals.
-
 Whether you're a business looking to establish your online presence, need a website redesigned, or simply want to connect, I'd love to hear from you!
 
-🌐 Portfolio: View My Portfolio[View My Portfolio](https://beckykikedare.netlify.app/)
+🌐 Portfolio: [View My Portfolio](https://beckykikedare.netlify.app/)
 
 💼 LinkedIn: [Connect with Me](www.linkedin.com/in/kike-becky-d-a17292279)
 
-💻 Freelance Services: Available for freelance web development projects, including website design, development, redesign, and maintenance.[](www.kreationk.co.uk)
+🚀 Freelance Web Development:[ Kreation K – Website Design & Development](www.kreationk.co.uk)
 
 Let's build something great together! 🚀
 
