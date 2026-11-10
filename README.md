@@ -18,7 +18,7 @@ I'm a passionate backend and full-stack developer with experience in Java, JavaS
 - Job Platform – A job listing and application platform built during a mentorship with Monzo Bank.
 - Goal Setting App – A full-stack application for users to set and track personal goals.
 - Gratitude Journaling API – A RESTful API for managing gratitude journal entries.
-- Bank Transaction Management System – A Java-based system for handling deposits, withdrawals, and transaction history.
+
   
 ## Get in Touch 📩
 I'm always open to new opportunities, collaborations, freelance projects, and connecting with like-minded professionals.
